@@ -1,0 +1,8 @@
+electronics 1
+sports 3
+outdoors 3
+fishing 3
+ucf 3
+personal 3
+baseball 2
+computers 3
